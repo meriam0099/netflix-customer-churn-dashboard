@@ -10,7 +10,7 @@ This Power BI dashboard analyzes customer churn patterns for a Netflix dataset o
 ### 1. Overview Dashboard
 Provides high-level KPIs across the user base, tracking total revenue, churn metrics, and average customer watch hours.
 
-![Netflix Customer Churn Overview](overview.png)
+![Netflix Customer Churn Overview](overview.png.png)
 
 * **Total Customers:** 5,000
 * **Churn Rate:** 50.3%
@@ -23,7 +23,7 @@ Provides high-level KPIs across the user base, tracking total revenue, churn met
 ### 2. Segment Analysis
 Breaks down churn rates by specific user dimensions: subscription plan, geographical region, and primary viewing device.
 
-![Churn Rate by Customer Segment](segment_analysis.png)
+![Churn Rate by Customer Segment](segment_analysis.png.png)
 
 * **Churn by Subscription:** Basic plan leads at **61% churn rate**.
 * **Churn by Region:** Africa exhibits the highest regional churn at **58%**.
@@ -34,7 +34,7 @@ Breaks down churn rates by specific user dimensions: subscription plan, geograph
 ### 3. Usage vs. Churn Analysis
 Examines behavioral patterns and engagement triggers behind customer cancellations.
 
-![Engagement Patterns Behind Churn](usage_vs_churn.png)
+![Engagement Patterns Behind Churn](usage_vs_churn.png.png)
 
 * **Watch Hours vs. Days Since Last Login:** Churned users cluster heavily in low usage volume and high inactivity timeframes.
 * **Average Last Login (Active Users):** 9 days
